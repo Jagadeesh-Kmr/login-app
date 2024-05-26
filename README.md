@@ -2,7 +2,7 @@
 
 Constructed an Login App.
 
-● Built pages for Login, Home and Application Form with React components, form inputs, React Hooks and event
+● Built pages for Login, Home and Application Form with React components, form inputs, React Hooks and Event
   handlers.
 
 ● Ensured secure authentication with JWT tokens and REST API calls.
@@ -11,6 +11,8 @@ Constructed an Login App.
 
 Technologies used: React JS, JS, CSS, Bootstrap, Routing, REST API Calls, Local Storage, JWT Token,
 Authorization, Authentication, React Hooks.
+
+
 
 
 #Project-Explanation
